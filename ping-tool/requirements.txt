@@ -1,0 +1,4 @@
+Thinker
+requests
+subprocess
+ipaddress
